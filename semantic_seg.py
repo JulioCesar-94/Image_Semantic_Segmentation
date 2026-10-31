@@ -1,5 +1,5 @@
-import torchvision
-
-dataset = torchvision.datasets.VOCSegmentation
-
-print(dataset)
+#%%
+from torchvision import datasets
+# %%
+print("hello")
+# %%
